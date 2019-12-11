@@ -32,7 +32,7 @@
 **特别感谢朱涛**，活动当天家里有突发情况，但依然按时赶来，做完分享又匆匆离开。
 
 机器学习分会场讲师
-- 艾力亚尔(Eliyar Eziz)
+- 艾力亚尔(Eliyar Eziz) [@BrikerMan](https://github.com/BrikerMan)
 - 郭成凯
 - 邢部 [@xingbu110](https://github.com/xingbu110)
 - 洪贤斌(Derek): 外地赶来
