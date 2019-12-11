@@ -19,7 +19,7 @@
 - 整体信息2: https://mp.weixin.qq.com/s/xC1aUQWGeWZc28w0JQeKJg
 - 整体信息3: https://mp.weixin.qq.com/s/0jnVgxetF-SFJz9rQbBtOA
 - 交通指南: https://mp.weixin.qq.com/s/fQEpxHLTGp_06tMdk7gIfA
-- 机器学习分会场介绍: https://mp.weixin.qq.com/s/84VrE4fRxKoG1NF7n2vrJw
+- 机器学习分会场介绍: https://mp.weixin.qq.com/s/TAyb8-wQnwKmklNDWp8DOg
 - 移动开发分会场介绍: https://mp.weixin.qq.com/s/nKx7lt3LlGwMx78x1b2Xkg
 - Web分会场介绍: https://mp.weixin.qq.com/s/wJUdMw58rckr9RfzZ459NA
 - 云计算分会场介绍: https://mp.weixin.qq.com/s/LAEIepZ8Qx6Vu1JTo-Cz0Q
