@@ -34,7 +34,7 @@
 机器学习分会场讲师
 - 艾力亚尔(Eliyar Eziz)
 - 郭成凯
-- 邢部 @xingbu110
+- 邢部 [@xingbu110](https://github.com/xingbu110)
 - 洪贤斌(Derek): 外地赶来
 
 Web 分会场讲师
