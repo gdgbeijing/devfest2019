@@ -38,10 +38,10 @@
 - 洪贤斌(Derek): 外地赶来
 
 Web 分会场讲师
-- 贺师俊: 外地赶来
+- 贺师俊: 外地赶来 [@hax](https://github.com/hax)
 - 撖书良
 - 高嵩
-- 汪志成
+- 汪志成 [@asnowwolf](https://github.com/asnowwolf)
 - 丛慧君
 
 移动开发分会场讲师
